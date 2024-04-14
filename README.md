@@ -1,6 +1,6 @@
 # How to hot reload C# mods in Stardew Valley on macOS  
 Download and install the latest .NET SDK [here](https://dotnet.microsoft.com/en-us/download).  
-Make sure that the `dotnet` in your preferred shell.  
+Make sure that the `dotnet` command works in your preferred shell.  
   
 Open the .csproj file for your mod and add the following properties in the PropertyGroup setting:  
      `     <PropertyGroup>`  
